@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="MappableBuffer\MappableBuffer.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MappableBuffer\HelloGL3.cs">
+    <Files>
+      <File FileName="MappableBuffer\HelloGL3.cs" Line="264" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Projects\MappableBuffer\MappableBuffer\HelloGL3.cs" line="114" column="11" />
+      <Breakpoint file="D:\Projects\MappableBuffer\MappableBuffer\HelloGL3.cs" line="139" column="8" />
+      <Breakpoint file="D:\Projects\MappableBuffer\MappableBuffer\HelloGL3.cs" line="145" column="19" />
+      <Breakpoint file="D:\Projects\MappableBuffer\MappableBuffer\HelloGL3.cs" line="160" column="34" />
+      <Breakpoint file="D:\Projects\MappableBuffer\MappableBuffer\HelloGL3.cs" line="168" column="40" />
+      <Breakpoint file="D:\Projects\MappableBuffer\MappableBuffer\HelloGL3.cs" line="182" column="45" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

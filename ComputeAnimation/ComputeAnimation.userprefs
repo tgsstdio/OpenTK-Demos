@@ -1,0 +1,19 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupItem="ComputeAnimation.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Projects\ComputeAnimation\MyComputeAnimation.cs" line="410" column="25" />
+      <Breakpoint file="D:\Projects\ComputeAnimation\MyComputeAnimation.cs" line="301" column="20" />
+      <Breakpoint file="D:\Projects\ComputeAnimation\MyComputeAnimation.cs" line="173" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ComputeAnimation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyComputeAnimation.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="23" />
+      <File FileName="MyComputeAnimation.cs" Line="144" Column="22" />
+      <File FileName="ConstantBufferInfo.cs" Line="72" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
