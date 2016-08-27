@@ -1,5 +1,7 @@
 # OpenGL & OpenTk demos 2015 - 2016 experiments
 
+# Public domain 2016
+
 ## ComputeDemo
  - straight translation into OpenTK of compute image transform example.
 	- Based on source code from http://wili.cc/blog/opengl-cs.html
